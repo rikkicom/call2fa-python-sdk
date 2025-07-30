@@ -4,7 +4,7 @@ This is a library you can use for Rikkicom's service named as Call2FA (a phone c
 
 ## Installation
 
-Just copy `call2fa/client.py` to your code base:
+Just copy `call2fa/sdk.py` to your code base:
 
 ## Example
 
